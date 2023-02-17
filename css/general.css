@@ -1,0 +1,5 @@
+/* For content that are common on most pages */
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
